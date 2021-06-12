@@ -18,11 +18,11 @@ cd Pro
 
 python2 Pro.py
 
-#User:(Kachi)
-#Pass:(Lee)
+#User:(KACHI)
+#Pass:(LEE)
 
 
 # Thank You All 😍
 
-l 😍
+ 😍
 
